@@ -3,7 +3,9 @@ def new_hash
 end
 
 def actor
-
+	hollywood {
+		:name => "Dwaye The Rock Johnson"
+	}
 end
 
 def monopoly
