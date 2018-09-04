@@ -3,8 +3,8 @@ def new_hash
 end
 
 def actor
-	hollywood {
-
+	actor {
+		:name => {name: 'Dwayne The Rock Johnson'}
 	}
 end
 
