@@ -4,7 +4,7 @@ end
 
 def actor
 	hollywood {
-		name =>"Dwaye The Rock Johnson"
+		name =>"Dwanye The Rock Johnson"
 	}
 end
 
